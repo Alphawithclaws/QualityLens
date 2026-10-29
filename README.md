@@ -154,9 +154,3 @@ Example `/api/analyze` request:
 - Pareto, histogram and fishbone diagrams
 - Export charts and results as PDF
 
-## License
-
-Add a license of your choice, for example MIT, before publishing.
-=======
-AI powered quality intelligence and analytics platform
->>>>>>> eccff842ceed97b64681c42a1c555e0334daf80d
