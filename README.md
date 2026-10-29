@@ -1,4 +1,5 @@
 # QualityLens
+<<<<<<< HEAD
 
 QualityLens turns a photo of a Total Quality Management (TQM) problem into a statistical process control (SPC) chart. Upload an image of a question, let Claude Vision read the numbers, check them, pick a chart type, and get the control chart with limits, out-of-control signals and a written explanation.
 
@@ -157,3 +158,6 @@ Example `/api/analyze` request:
 ## License
 
 Add a license of your choice, for example MIT, before publishing.
+=======
+AI powered quality intelligence and analytics platform
+>>>>>>> eccff842ceed97b64681c42a1c555e0334daf80d
